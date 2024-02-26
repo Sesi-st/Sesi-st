@@ -14,6 +14,10 @@
    - Learn JavaScript and other front end technologies
    - Build projects to apply what i have learnt so far
 
+  **🙋‍♂️How to reach me**  
+     📩sesinamattipoe@icloud.com  
+     📩sesinamattipoe360@gmail.com
+
 
 
 
