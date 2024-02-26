@@ -9,7 +9,7 @@
  - This repository will be a place to document my progress and projects
  - I might share code snippets or anthing that helps me in my journy
 
- **Goals** 
+ **🚀Goals** 
    - Improve my HTML and CSS skills
    - Learn JavaScript and other front end technologies
    - Build projects to apply what i have learnt so far
