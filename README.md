@@ -3,7 +3,7 @@
 
 
  **👀About me**  
- I'm eager to learn to front end development and more. Currently I have knowledge in a HTML and CSS and I'm eager to learn more
+ I'm eager to learn front end development and more. Currently I have knowledge in a HTML and CSS and I'm eager to learn more
  
 **🌱What you should expect to be on here**
  - This repository will be a place to document my progress and projects
